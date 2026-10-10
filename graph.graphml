@@ -9507,7 +9507,7 @@
     </edge>
     <edge source="69168282" target="6017757522" id="0">
       <data key="d8">[233974185, 43391727]</data>
-      <data key="d9">['service', 'tertiary']</data>
+      <data key="d9">['tertiary', 'service']</data>
       <data key="d14">Ferst Drive Northwest</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
@@ -9857,7 +9857,7 @@
     <edge source="69233377" target="546641385" id="0">
       <data key="d8">[9241400, 9246699]</data>
       <data key="d9">residential</data>
-      <data key="d14">['3rd Street Northwest', 'Mc Lendon Street Northwest']</data>
+      <data key="d14">['Mc Lendon Street Northwest', '3rd Street Northwest']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">58.70522522884932</data>
@@ -10117,7 +10117,7 @@
     </edge>
     <edge source="315320050" target="560216431" id="0">
       <data key="d8">[43674506, 44075293, 44075294]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">8.531407826505541</data>
@@ -10287,7 +10287,7 @@
     </edge>
     <edge source="523383711" target="9459765854" id="0">
       <data key="d8">[43674881, 1026024034, 1026024035]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">18.463525922781677</data>
@@ -10343,7 +10343,7 @@
     </edge>
     <edge source="534043956" target="998987464" id="0">
       <data key="d8">[86093680, 86093676]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">9.089210667783338</data>
@@ -10359,7 +10359,7 @@
     </edge>
     <edge source="534324018" target="9659374401" id="0">
       <data key="d8">[199624544, 43674634]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">4.75592598076064</data>
@@ -10519,7 +10519,7 @@
     </edge>
     <edge source="535070520" target="2023555995" id="0">
       <data key="d8">[1268388994, 1268388995, 245699021]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">35.420663518620444</data>
@@ -10980,7 +10980,7 @@
     </edge>
     <edge source="538714652" target="5170423852" id="0">
       <data key="d8">[532853024, 532853025, 532853023]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">27.15170376989844</data>
@@ -12339,7 +12339,7 @@
     </edge>
     <edge source="546591267" target="2528461786" id="0">
       <data key="d8">[247757058, 245699012, 247757039]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">16.163064061815426</data>
@@ -12518,7 +12518,7 @@
     </edge>
     <edge source="546617081" target="11698599954" id="0">
       <data key="d8">[1258392323, 1258392324, 1258392325]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">70.18681827443375</data>
@@ -13027,7 +13027,7 @@
     <edge source="546641385" target="69233377" id="0">
       <data key="d8">[9241400, 9246699]</data>
       <data key="d9">residential</data>
-      <data key="d14">['3rd Street Northwest', 'Mc Lendon Street Northwest']</data>
+      <data key="d14">['Mc Lendon Street Northwest', '3rd Street Northwest']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">58.70522522884932</data>
@@ -13725,7 +13725,7 @@
     </edge>
     <edge source="546818698" target="560129621" id="0">
       <data key="d8">[43674522, 44067355, 44067318]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">41.29626921188878</data>
@@ -14375,7 +14375,7 @@
     </edge>
     <edge source="550914609" target="5674104305" id="0">
       <data key="d8">[1453230973, 1453230974, 437869655]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">49.94210024332784</data>
@@ -14476,7 +14476,7 @@
     </edge>
     <edge source="550914849" target="5674104305" id="0">
       <data key="d8">[1453230976, 192503311, 1453230975]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">21.115149781799833</data>
@@ -14680,7 +14680,7 @@
     </edge>
     <edge source="551072899" target="552542526" id="0">
       <data key="d8">[43674689, 43613835]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">7.628758888983573</data>
@@ -14711,7 +14711,7 @@
     </edge>
     <edge source="551072940" target="9048439664" id="0">
       <data key="d8">[192142345, 43674882, 43613841]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">22.602606520749028</data>
@@ -15045,7 +15045,7 @@
     </edge>
     <edge source="551074154" target="552542450" id="0">
       <data key="d8">[43674685, 43674894, 43613895]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">33.5650938120549</data>
@@ -15130,7 +15130,7 @@
     </edge>
     <edge source="551074408" target="2427278658" id="0">
       <data key="d8">[43674889, 43613898, 43613899]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">38.75575619536666</data>
@@ -15193,7 +15193,7 @@
     </edge>
     <edge source="551074488" target="560602167" id="0">
       <data key="d8">[365406940, 43674885, 43613950, 234484167]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">31.267912830756735</data>
@@ -15232,7 +15232,7 @@
     </edge>
     <edge source="551074595" target="551074613" id="0">
       <data key="d8">[43674732, 43613973, 43613967]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">18.073632812474898</data>
@@ -15269,7 +15269,7 @@
     </edge>
     <edge source="551074613" target="551074595" id="0">
       <data key="d8">[43674732, 43613973, 43613967]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">18.073632812474898</data>
@@ -15382,7 +15382,7 @@
     </edge>
     <edge source="551076843" target="552542333" id="0">
       <data key="d8">[43674673, 43614887]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">13.106604636373104</data>
@@ -15398,7 +15398,7 @@
     </edge>
     <edge source="551076874" target="551076880" id="0">
       <data key="d8">[43674672, 43614925, 43614919]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">73.59498301551923</data>
@@ -15406,7 +15406,7 @@
     </edge>
     <edge source="551076874" target="560216631" id="0">
       <data key="d8">[43674724, 43614940, 43614924]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">58.35122358604649</data>
@@ -15422,7 +15422,7 @@
     </edge>
     <edge source="551076880" target="551076874" id="0">
       <data key="d8">[43674672, 43614925, 43614919]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">73.59498301551922</data>
@@ -15452,7 +15452,7 @@
     </edge>
     <edge source="551076896" target="5409191828" id="0">
       <data key="d8">[43614945, 43674674, 331168085]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">52.967835313467575</data>
@@ -15476,7 +15476,7 @@
     </edge>
     <edge source="551076898" target="551076952" id="0">
       <data key="d8">[43615010, 43614949, 43674678]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">49.6217390429745</data>
@@ -15526,7 +15526,7 @@
     </edge>
     <edge source="551076908" target="2430228406" id="0">
       <data key="d8">[43614968, 43674676, 43615102]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">48.457022394735674</data>
@@ -15534,7 +15534,7 @@
     </edge>
     <edge source="551076919" target="551076940" id="0">
       <data key="d8">[43615031, 43614982, 43674679]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">27.553035489166447</data>
@@ -15550,7 +15550,7 @@
     </edge>
     <edge source="551076919" target="11698670983" id="0">
       <data key="d8">[43674680, 1258398260, 43614989]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">34.637611079776114</data>
@@ -15631,7 +15631,7 @@
     </edge>
     <edge source="551076940" target="552542117" id="0">
       <data key="d8">[43615039, 43674502, 43615031]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">36.13814219090438</data>
@@ -15639,7 +15639,7 @@
     </edge>
     <edge source="551076940" target="551076919" id="0">
       <data key="d8">[43674679, 43614982, 43615031]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">27.553035489166447</data>
@@ -15654,7 +15654,7 @@
     </edge>
     <edge source="551076952" target="551076898" id="0">
       <data key="d8">[43615010, 43614949, 43674678]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">49.62173904297449</data>
@@ -16178,7 +16178,7 @@
     </edge>
     <edge source="551077139" target="2430228393" id="0">
       <data key="d8">[43674682, 43615172, 43615166]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">19.63423047695248</data>
@@ -16245,7 +16245,7 @@
     </edge>
     <edge source="551077420" target="2436943075" id="0">
       <data key="d8">[43613895, 240808968, 240808975, 233974197, 233974199]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">51.548500625153764</data>
@@ -16532,7 +16532,7 @@
     </edge>
     <edge source="551723421" target="552542982" id="0">
       <data key="d8">[43674736, 43634772]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">7.154260348734367</data>
@@ -16606,7 +16606,7 @@
     </edge>
     <edge source="552540122" target="560129634" id="0">
       <data key="d8">[44067293, 43674518]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">18.811378874401584</data>
@@ -16614,7 +16614,7 @@
     </edge>
     <edge source="552540144" target="560130010" id="0">
       <data key="d8">[43674521, 44067366]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">18.54987986753855</data>
@@ -16660,7 +16660,7 @@
     </edge>
     <edge source="552540343" target="9659374382" id="0">
       <data key="d8">[1051129850, 43674539]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">15.122334119058323</data>
@@ -16668,7 +16668,7 @@
     </edge>
     <edge source="552540399" target="558583264" id="0">
       <data key="d8">[43674544, 43921014]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">6.857482487002768</data>
@@ -16714,7 +16714,7 @@
     </edge>
     <edge source="552540484" target="558703498" id="0">
       <data key="d8">[43934229, 43674551]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">9.526807377648794</data>
@@ -16722,7 +16722,7 @@
     </edge>
     <edge source="552540494" target="560602174" id="0">
       <data key="d8">[43674552, 44116567]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">6.875028841213517</data>
@@ -16788,7 +16788,7 @@
     </edge>
     <edge source="552540794" target="6511407627" id="0">
       <data key="d8">[43674580, 693549007]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">5.2061023202294</data>
@@ -16825,7 +16825,7 @@
     </edge>
     <edge source="552540854" target="7138804376" id="0">
       <data key="d8">[193871305, 43674582]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">6.021564964472462</data>
@@ -16922,7 +16922,7 @@
     </edge>
     <edge source="552541524" target="559838215" id="0">
       <data key="d8">[44034024, 43674613]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">17.145814162200317</data>
@@ -16946,7 +16946,7 @@
     </edge>
     <edge source="552541726" target="9659374448" id="0">
       <data key="d8">[1051129873, 43674630]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">13.389923557385101</data>
@@ -16954,7 +16954,7 @@
     </edge>
     <edge source="552541767" target="9659374439" id="0">
       <data key="d8">[1051129864, 43674633]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">11.214643875311129</data>
@@ -16978,7 +16978,7 @@
     </edge>
     <edge source="552541792" target="2096097025" id="0">
       <data key="d8">[43674635, 199624541]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">4.8413406834832085</data>
@@ -17007,7 +17007,7 @@
     </edge>
     <edge source="552541806" target="9659374428" id="0">
       <data key="d8">[43674640, 1051129861, 1051129862]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">48.2230817562084</data>
@@ -17051,7 +17051,7 @@
     </edge>
     <edge source="552541894" target="552541902" id="0">
       <data key="d8">[1051129868, 43674645]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">13.556846827176926</data>
@@ -17074,7 +17074,7 @@
     </edge>
     <edge source="552541902" target="552541894" id="0">
       <data key="d8">[1051129868, 43674645]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">13.556846827176926</data>
@@ -17082,7 +17082,7 @@
     </edge>
     <edge source="552541910" target="9659374445" id="0">
       <data key="d8">[43674646, 1051129870]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">9.768481846943896</data>
@@ -17090,7 +17090,7 @@
     </edge>
     <edge source="552541931" target="9659374447" id="0">
       <data key="d8">[43674648, 1051129872]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">17.392054252387666</data>
@@ -17152,7 +17152,7 @@
     </edge>
     <edge source="552542117" target="551076940" id="0">
       <data key="d8">[43615031, 43674502, 43615039]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">36.13814219090438</data>
@@ -17198,7 +17198,7 @@
     </edge>
     <edge source="552542333" target="551076843" id="0">
       <data key="d8">[43674673, 43614887]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">13.106604636373104</data>
@@ -17206,7 +17206,7 @@
     </edge>
     <edge source="552542431" target="2016850131" id="0">
       <data key="d8">[43615016, 43674681]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">6.2479963598963435</data>
@@ -17230,7 +17230,7 @@
     </edge>
     <edge source="552542450" target="2430336619" id="0">
       <data key="d8">[43674890, 43674685, 43615191]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">26.6332152857307</data>
@@ -17238,7 +17238,7 @@
     </edge>
     <edge source="552542450" target="551074154" id="0">
       <data key="d8">[43674685, 43674894, 43613895]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">33.5650938120549</data>
@@ -17298,7 +17298,7 @@
     </edge>
     <edge source="552542515" target="2427278661" id="0">
       <data key="d8">[247757040, 247757049, 43614031]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">35.50514983974238</data>
@@ -17322,7 +17322,7 @@
     </edge>
     <edge source="552542526" target="2485004395" id="0">
       <data key="d8">[240808984, 43674883, 43613844]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">20.313200619396916</data>
@@ -17330,7 +17330,7 @@
     </edge>
     <edge source="552542526" target="551072899" id="0">
       <data key="d8">[43674689, 43613835]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">7.628758888983573</data>
@@ -17338,7 +17338,7 @@
     </edge>
     <edge source="552542599" target="9659822945" id="0">
       <data key="d8">[43674696, 1051183455]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">9.37304956489709</data>
@@ -17346,7 +17346,7 @@
     </edge>
     <edge source="552542646" target="8584487632" id="0">
       <data key="d8">[924968741, 43674701]</data>
-      <data key="d9">['path', 'steps']</data>
+      <data key="d9">['steps', 'path']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">12.08012756517373</data>
@@ -17354,7 +17354,7 @@
     </edge>
     <edge source="552542646" target="560602428" id="0">
       <data key="d8">[44116593, 532852788, 532852789, 532852790]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">90.77937673505589</data>
@@ -17372,7 +17372,7 @@
     <edge source="552542656" target="8584487636" id="0">
       <data key="d8">[924968746, 43674702]</data>
       <data key="d17">no</data>
-      <data key="d9">['path', 'steps']</data>
+      <data key="d9">['steps', 'path']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">38.72915297050508</data>
@@ -17380,7 +17380,7 @@
     </edge>
     <edge source="552542678" target="9659822949" id="0">
       <data key="d8">[1051183457, 43674705]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">14.320807139277292</data>
@@ -17388,7 +17388,7 @@
     </edge>
     <edge source="552542696" target="560602248" id="0">
       <data key="d8">[43674706, 44116583]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">5.9876248885286145</data>
@@ -17426,7 +17426,7 @@
     </edge>
     <edge source="552542830" target="8584487620" id="0">
       <data key="d8">[924968736, 43674722]</data>
-      <data key="d9">['path', 'steps']</data>
+      <data key="d9">['steps', 'path']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">15.627118662517239</data>
@@ -17451,7 +17451,7 @@
     </edge>
     <edge source="552542982" target="551723421" id="0">
       <data key="d8">[43674736, 43634772]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">7.154260348734367</data>
@@ -17459,7 +17459,7 @@
     </edge>
     <edge source="552542991" target="9659372405" id="0">
       <data key="d8">[43674737, 1051129828, 1051129829]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">47.51908438605157</data>
@@ -17468,7 +17468,7 @@
     <edge source="552543010" target="8845774679" id="0">
       <data key="d8">[955769489, 955769490, 43674739, 43674738]</data>
       <data key="d17">no</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">13.19079453527923</data>
@@ -17476,7 +17476,7 @@
     </edge>
     <edge source="552543032" target="5409334777" id="0">
       <data key="d8">[1051129827, 43674741]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">19.552073146418177</data>
@@ -17491,7 +17491,7 @@
     </edge>
     <edge source="552543224" target="9659822941" id="0">
       <data key="d8">[43674761, 1051183453]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">11.685218803114719</data>
@@ -17499,7 +17499,7 @@
     </edge>
     <edge source="552543246" target="7366749792" id="0">
       <data key="d8">[43674764, 787952222]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">4.492301378430856</data>
@@ -17514,7 +17514,7 @@
     </edge>
     <edge source="552543264" target="7366749806" id="0">
       <data key="d8">[787952224, 787952226, 787952227]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">7.852064003863149</data>
@@ -17522,7 +17522,7 @@
     </edge>
     <edge source="552543264" target="7366749801" id="0">
       <data key="d8">[787952224, 787952225, 787952223]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">14.29759940644477</data>
@@ -17537,7 +17537,7 @@
     </edge>
     <edge source="552543327" target="9659822942" id="0">
       <data key="d8">[43674770, 1051183454]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">9.796867906080166</data>
@@ -17625,7 +17625,7 @@
     </edge>
     <edge source="552543624" target="2488916139" id="0">
       <data key="d8">[43674792, 241039468, 241039470, 241039471, 241193237, 241039480]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">25.295783323700284</data>
@@ -17640,7 +17640,7 @@
     </edge>
     <edge source="552543965" target="2017965730" id="0">
       <data key="d8">[43674818, 44116572]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">16.788017811465362</data>
@@ -17723,7 +17723,7 @@
     </edge>
     <edge source="552544219" target="2436943061" id="0">
       <data key="d8">[235621312, 43674846]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">16.89734946628747</data>
@@ -17732,7 +17732,7 @@
     <edge source="552544319" target="998987481" id="0">
       <data key="d8">[189259333, 43674879]</data>
       <data key="d17">no</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">10.500124452919508</data>
@@ -17741,7 +17741,7 @@
     <edge source="552544328" target="1999039827" id="0">
       <data key="d8">[43674880, 189259332]</data>
       <data key="d17">no</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">6.78069363287003</data>
@@ -17770,7 +17770,7 @@
     </edge>
     <edge source="553496105" target="553496113" id="0">
       <data key="d8">[43734722, 43674693, 233974188, 233974191, 233974195, 233974196, 43734719]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">18.459598857674763</data>
@@ -17778,7 +17778,7 @@
     </edge>
     <edge source="553496105" target="3158726345" id="0">
       <data key="d8">[43734721, 43674692, 43734719]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">25.227459071065</data>
@@ -17829,7 +17829,7 @@
     </edge>
     <edge source="553496113" target="9563704479" id="0">
       <data key="d8">[233974187, 1453230957, 233974190, 233974193, 233974196]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">11.489189562010765</data>
@@ -17838,7 +17838,7 @@
     </edge>
     <edge source="553496113" target="553496105" id="0">
       <data key="d8">[43734722, 43674693, 233974188, 233974191, 233974195, 233974196, 43734719]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">18.459598857674763</data>
@@ -17862,7 +17862,7 @@
     </edge>
     <edge source="553496115" target="553496125" id="0">
       <data key="d8">[43734723, 43734725, 43674558]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">14.692178162459983</data>
@@ -17886,7 +17886,7 @@
     </edge>
     <edge source="553496125" target="553496115" id="0">
       <data key="d8">[43734723, 43734725, 43674558]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">14.692178162459983</data>
@@ -18026,7 +18026,7 @@
     </edge>
     <edge source="553497942" target="553497944" id="0">
       <data key="d8">[43735102, 1222367310, 1222367302]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">19.37569798997785</data>
@@ -18034,7 +18034,7 @@
     </edge>
     <edge source="553497944" target="553497942" id="0">
       <data key="d8">[43735102, 1222367302, 1222367310]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">19.37569798997785</data>
@@ -18064,7 +18064,7 @@
     </edge>
     <edge source="553498024" target="553498043" id="0">
       <data key="d8">[43674576, 43735113, 43735107]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">16.006869870769506</data>
@@ -18208,7 +18208,7 @@
     </edge>
     <edge source="553498043" target="553498024" id="0">
       <data key="d8">[43674576, 43735113, 43735107]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">16.006869870769506</data>
@@ -18216,7 +18216,7 @@
     </edge>
     <edge source="553498045" target="553498030" id="0">
       <data key="d8">[43674577, 43735114, 924973460]</data>
-      <data key="d9">['footway', 'path', 'steps']</data>
+      <data key="d9">['steps', 'footway', 'path']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">28.97042752885917</data>
@@ -18657,7 +18657,7 @@
     </edge>
     <edge source="557991940" target="557992501" id="0">
       <data key="d8">[43674547, 43892140, 43892133]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">39.06931540605382</data>
@@ -18687,7 +18687,7 @@
     </edge>
     <edge source="557991965" target="557992043" id="0">
       <data key="d8">[43674546, 43892133, 43892134]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">32.89191439977502</data>
@@ -18710,7 +18710,7 @@
     </edge>
     <edge source="557992043" target="557991965" id="0">
       <data key="d8">[43674546, 43892133, 43892134]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">32.89191439977502</data>
@@ -18718,7 +18718,7 @@
     </edge>
     <edge source="557992501" target="557991940" id="0">
       <data key="d8">[43674547, 43892140, 43892133]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">39.069315406053825</data>
@@ -18726,7 +18726,7 @@
     </edge>
     <edge source="557992501" target="557992555" id="0">
       <data key="d8">[43892145, 43892142]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">69.86437798664953</data>
@@ -18749,7 +18749,7 @@
     </edge>
     <edge source="557992555" target="557992501" id="0">
       <data key="d8">[43892145, 43892142]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">69.86437798664952</data>
@@ -18773,7 +18773,7 @@
     </edge>
     <edge source="558536439" target="558536623" id="0">
       <data key="d8">[43916253, 43916270]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">10.756317048862229</data>
@@ -18781,7 +18781,7 @@
     </edge>
     <edge source="558536468" target="7576564251" id="0">
       <data key="d8">[43674621, 43916254, 43916255]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">37.57671458223345</data>
@@ -18789,7 +18789,7 @@
     </edge>
     <edge source="558536468" target="558536650" id="0">
       <data key="d8">[43674620, 43916254, 43916271]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">9.680875405426383</data>
@@ -18797,7 +18797,7 @@
     </edge>
     <edge source="558536468" target="558536623" id="0">
       <data key="d8">[43916269, 43674619, 43916261]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">13.87267767976735</data>
@@ -18813,7 +18813,7 @@
     </edge>
     <edge source="558536623" target="558536468" id="0">
       <data key="d8">[43916261, 43674619, 43916269]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">13.872677679767348</data>
@@ -18821,7 +18821,7 @@
     </edge>
     <edge source="558536623" target="558536439" id="0">
       <data key="d8">[43916253, 43916270]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">10.756317048862229</data>
@@ -18836,7 +18836,7 @@
     </edge>
     <edge source="558536634" target="558537684" id="0">
       <data key="d8">[43916333, 43916269, 43916334]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">34.949568544826505</data>
@@ -18867,7 +18867,7 @@
     </edge>
     <edge source="558536650" target="558536468" id="0">
       <data key="d8">[43674620, 43916254, 43916271]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">9.680875405426383</data>
@@ -18912,7 +18912,7 @@
     </edge>
     <edge source="558536659" target="558537198" id="0">
       <data key="d8">[43916296, 43916322]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">4.2641563792323876</data>
@@ -18979,7 +18979,7 @@
     </edge>
     <edge source="558537198" target="558536659" id="0">
       <data key="d8">[43916296, 43916322]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">4.2641563792323876</data>
@@ -19055,7 +19055,7 @@
     </edge>
     <edge source="558537684" target="558536634" id="0">
       <data key="d8">[43916269, 43916333, 43916334]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">34.949568544826505</data>
@@ -19184,7 +19184,7 @@
     </edge>
     <edge source="558583164" target="6017757512" id="0">
       <data key="d8">[43674545, 234582070, 1387780167]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">37.70829230190531</data>
@@ -19315,7 +19315,7 @@
     </edge>
     <edge source="558583264" target="552540399" id="0">
       <data key="d8">[43674544, 43921014]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">6.857482487002768</data>
@@ -19603,7 +19603,7 @@
       <data key="d8">[560681728, 43391738]</data>
       <data key="d9">service</data>
       <data key="d10">False</data>
-      <data key="d18">['driveway', 'parking_aisle']</data>
+      <data key="d18">['parking_aisle', 'driveway']</data>
       <data key="d11">True</data>
       <data key="d12">25.27583964151974</data>
       <data key="d15">LINESTRING (-84.4028816 33.773278, -84.4028487 33.773366, -84.4028553 33.7733798, -84.4029839 33.773435)</data>
@@ -19911,7 +19911,7 @@
     </edge>
     <edge source="558703475" target="2497197132" id="0">
       <data key="d8">[43934225, 242205179, 43674550]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">17.558432869552377</data>
@@ -20003,7 +20003,7 @@
     </edge>
     <edge source="558703498" target="552540484" id="0">
       <data key="d8">[43934229, 43674551]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">9.526807377648794</data>
@@ -20057,7 +20057,7 @@
     </edge>
     <edge source="559371582" target="8550248549" id="0">
       <data key="d8">[43674721, 43990388, 43990389]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">20.585763162578317</data>
@@ -20278,7 +20278,7 @@
     </edge>
     <edge source="559838189" target="11698702929" id="0">
       <data key="d8">[1258402080, 1258402079]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">66.76431044665875</data>
@@ -20424,7 +20424,7 @@
     </edge>
     <edge source="559838215" target="552541524" id="0">
       <data key="d8">[44034024, 43674613]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">17.145814162200317</data>
@@ -20453,7 +20453,7 @@
     </edge>
     <edge source="560129621" target="546818698" id="0">
       <data key="d8">[43674522, 44067355, 44067318]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">41.29626921188878</data>
@@ -20461,7 +20461,7 @@
     </edge>
     <edge source="560129634" target="552540122" id="0">
       <data key="d8">[44067293, 43674518]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">18.811378874401584</data>
@@ -20550,7 +20550,7 @@
     </edge>
     <edge source="560129752" target="560130010" id="0">
       <data key="d8">[44067368, 44067315, 44067317]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">11.834622782275122</data>
@@ -20605,7 +20605,7 @@
     </edge>
     <edge source="560130010" target="552540144" id="0">
       <data key="d8">[43674521, 44067366]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">18.54987986753855</data>
@@ -20613,7 +20613,7 @@
     </edge>
     <edge source="560130010" target="560129752" id="0">
       <data key="d8">[44067368, 44067315, 44067317]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">11.834622782275122</data>
@@ -20653,7 +20653,7 @@
     </edge>
     <edge source="560216431" target="315320050" id="0">
       <data key="d8">[43674506, 44075293, 44075294]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">8.531407826505541</data>
@@ -20912,7 +20912,7 @@
     </edge>
     <edge source="560216490" target="560216499" id="0">
       <data key="d8">[44075336, 44075337, 43674603]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">35.69355625747266</data>
@@ -20928,7 +20928,7 @@
     </edge>
     <edge source="560216499" target="560216490" id="0">
       <data key="d8">[44075336, 44075337, 43674603]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">35.693556257472665</data>
@@ -21231,7 +21231,7 @@
     </edge>
     <edge source="560216631" target="551076874" id="0">
       <data key="d8">[43674724, 43614924, 43614940]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">58.35122358604648</data>
@@ -21318,7 +21318,7 @@
     </edge>
     <edge source="560602167" target="551074488" id="0">
       <data key="d8">[365406940, 43674885, 43613950, 234484167]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">31.26791283075674</data>
@@ -21356,7 +21356,7 @@
     </edge>
     <edge source="560602171" target="3563594007" id="0">
       <data key="d8">[43674713, 44116563, 44116565]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">15.256579889256747</data>
@@ -21379,7 +21379,7 @@
     </edge>
     <edge source="560602173" target="3563594007" id="0">
       <data key="d8">[43674714, 44116563, 44116566]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">15.224676738968498</data>
@@ -21410,7 +21410,7 @@
     </edge>
     <edge source="560602174" target="552540494" id="0">
       <data key="d8">[43674552, 44116567]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">6.875028841213517</data>
@@ -21448,7 +21448,7 @@
     </edge>
     <edge source="560602178" target="560602190" id="0">
       <data key="d8">[367446201, 44116572, 43674549]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">14.423437990617385</data>
@@ -21493,7 +21493,7 @@
     </edge>
     <edge source="560602190" target="560602178" id="0">
       <data key="d8">[367446201, 44116572, 43674549]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">14.423437990617384</data>
@@ -21578,7 +21578,7 @@
     </edge>
     <edge source="560602248" target="552542696" id="0">
       <data key="d8">[43674706, 44116583]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">5.9876248885286145</data>
@@ -21625,7 +21625,7 @@
     </edge>
     <edge source="560602253" target="998987458" id="0">
       <data key="d8">[532852130, 532852131, 532852132]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">60.19448860000938</data>
@@ -21697,7 +21697,7 @@
     </edge>
     <edge source="560602428" target="552542646" id="0">
       <data key="d8">[44116593, 532852788, 532852789, 532852790]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">90.77937673505588</data>
@@ -21719,7 +21719,7 @@
     </edge>
     <edge source="560602430" target="3769709798" id="0">
       <data key="d8">[43674703, 43674704, 44116594, 44116595, 44116596]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">33.8828716962667</data>
@@ -21784,7 +21784,7 @@
     </edge>
     <edge source="560604275" target="560604315" id="0">
       <data key="d8">[44116836, 43674597]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">10.17272091384065</data>
@@ -21881,7 +21881,7 @@
     </edge>
     <edge source="560604278" target="560604308" id="0">
       <data key="d8">[43674596, 44116837, 44116838]</data>
-      <data key="d9">['footway', 'path', 'steps']</data>
+      <data key="d9">['steps', 'footway', 'path']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">14.254991823361532</data>
@@ -22202,7 +22202,7 @@
     </edge>
     <edge source="560604315" target="560604275" id="0">
       <data key="d8">[44116836, 43674597]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">10.17272091384065</data>
@@ -22395,7 +22395,7 @@
     </edge>
     <edge source="560604338" target="560604345" id="0">
       <data key="d8">[43674592, 43674593, 44116859, 44116860, 44116861]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">32.07631340231425</data>
@@ -22471,7 +22471,7 @@
     </edge>
     <edge source="560604345" target="560604338" id="0">
       <data key="d8">[43674592, 43674593, 44116859, 44116860, 44116861]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">32.07631340231424</data>
@@ -22738,7 +22738,7 @@
     </edge>
     <edge source="560605688" target="560605692" id="0">
       <data key="d8">[43674602, 44117002, 44116999]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">16.318697092691078</data>
@@ -22776,7 +22776,7 @@
     </edge>
     <edge source="560605692" target="560605688" id="0">
       <data key="d8">[44117002, 43674602, 44116999]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">16.318697092691075</data>
@@ -22879,7 +22879,7 @@
     </edge>
     <edge source="560605699" target="560605711" id="0">
       <data key="d8">[44117032, 44117035, 44117005]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">16.61887825877219</data>
@@ -22903,7 +22903,7 @@
     </edge>
     <edge source="560605701" target="560605709" id="0">
       <data key="d8">[44117033, 44117034, 44117030]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">13.140108630129873</data>
@@ -23037,7 +23037,7 @@
     </edge>
     <edge source="560605709" target="560605701" id="0">
       <data key="d8">[44117033, 44117034, 44117030]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">13.140108630129873</data>
@@ -23045,7 +23045,7 @@
     </edge>
     <edge source="560605711" target="560605699" id="0">
       <data key="d8">[44117032, 44117035, 44117005]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">16.61887825877219</data>
@@ -23507,7 +23507,7 @@
     </edge>
     <edge source="998987454" target="2049243168" id="0">
       <data key="d8">[788056176, 43674729]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">14.191998216874472</data>
@@ -23559,7 +23559,7 @@
     </edge>
     <edge source="998987458" target="560602253" id="0">
       <data key="d8">[532852130, 532852131, 532852132]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">60.19448860000938</data>
@@ -23625,7 +23625,7 @@
     </edge>
     <edge source="998987464" target="534043956" id="0">
       <data key="d8">[86093680, 86093676]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">9.089210667783338</data>
@@ -23716,7 +23716,7 @@
     </edge>
     <edge source="998987481" target="552544319" id="0">
       <data key="d8">[189259333, 43674879]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">10.500124452919508</data>
@@ -23725,7 +23725,7 @@
     </edge>
     <edge source="998987481" target="9048503791" id="0">
       <data key="d8">[28688320, 235621314, 235621315, 245699013, 234484168, 977893288, 1453230966]</data>
-      <data key="d9">['footway', 'steps', 'pedestrian']</data>
+      <data key="d9">['steps', 'footway', 'pedestrian']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">65.48552325542431</data>
@@ -24547,7 +24547,7 @@
       <data key="d8">[179236701, 43400629]</data>
       <data key="d9">service</data>
       <data key="d10">False</data>
-      <data key="d18">['driveway', 'parking_aisle']</data>
+      <data key="d18">['parking_aisle', 'driveway']</data>
       <data key="d11">[False, True]</data>
       <data key="d12">17.810945200259965</data>
       <data key="d15">LINESTRING (-84.4024023 33.7761142, -84.4024969 33.7761125, -84.4025949 33.7761158)</data>
@@ -24852,7 +24852,7 @@
     </edge>
     <edge source="1874844458" target="2030551724" id="0">
       <data key="d8">[43674585, 177014165]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">27.15176133121821</data>
@@ -25080,7 +25080,7 @@
     </edge>
     <edge source="1890103407" target="12981995934" id="0">
       <data key="d8">[178659306, 178659309]</data>
-      <data key="d17">['no', 'yes']</data>
+      <data key="d17">['yes', 'no']</data>
       <data key="d9">footway</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
@@ -25142,8 +25142,8 @@
     </edge>
     <edge source="1890103412" target="12981995934" id="0">
       <data key="d8">[178659304, 178659309, 551997445]</data>
-      <data key="d17">['yes', 'permissive']</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d17">['permissive', 'yes']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">156.17045842620334</data>
@@ -25518,7 +25518,7 @@
     </edge>
     <edge source="1999039827" target="552544328" id="0">
       <data key="d8">[43674880, 189259332]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">6.78069363287003</data>
@@ -25535,7 +25535,7 @@
     </edge>
     <edge source="2012522138" target="2012522139" id="0">
       <data key="d8">[190608818, 190608817, 43674578, 43674579]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">12.088392965024205</data>
@@ -25559,7 +25559,7 @@
     </edge>
     <edge source="2012522139" target="2012522138" id="0">
       <data key="d8">[43674578, 190608818, 43674579, 190608817]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">12.088392965024207</data>
@@ -25636,7 +25636,7 @@
     </edge>
     <edge source="2016850131" target="552542431" id="0">
       <data key="d8">[43615016, 43674681]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">6.2479963598963435</data>
@@ -25658,7 +25658,7 @@
     </edge>
     <edge source="2017919927" target="2042482066" id="0">
       <data key="d8">[43613872, 43674886, 43613871]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">18.582846785461637</data>
@@ -25666,7 +25666,7 @@
     </edge>
     <edge source="2017965730" target="552543965" id="0">
       <data key="d8">[43674818, 44116572]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">16.788017811465362</data>
@@ -25689,7 +25689,7 @@
     </edge>
     <edge source="2023555995" target="535070520" id="0">
       <data key="d8">[1268388994, 1268388995, 245699021]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">35.420663518620444</data>
@@ -25750,7 +25750,7 @@
     </edge>
     <edge source="2030551724" target="1874844458" id="0">
       <data key="d8">[43674585, 177014165]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">27.15176133121821</data>
@@ -25758,7 +25758,7 @@
     </edge>
     <edge source="2035243803" target="8584487705" id="0">
       <data key="d8">[192993861, 43674828, 192993365]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">39.27763941889173</data>
@@ -25766,7 +25766,7 @@
     </edge>
     <edge source="2035243803" target="8584487702" id="0">
       <data key="d8">[43674825, 310449482, 192993365]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">6.1194395543266635</data>
@@ -25774,7 +25774,7 @@
     </edge>
     <edge source="2035243803" target="8584487703" id="0">
       <data key="d8">[192993866, 192993862]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">7.061673617348369</data>
@@ -25798,7 +25798,7 @@
     </edge>
     <edge source="2042482066" target="2017919927" id="0">
       <data key="d8">[43613872, 43674886, 43613871]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">18.58284678546164</data>
@@ -25842,7 +25842,7 @@
     </edge>
     <edge source="2049243168" target="998987454" id="0">
       <data key="d8">[788056176, 43674729]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">14.191998216874472</data>
@@ -26050,7 +26050,7 @@
     </edge>
     <edge source="2096097025" target="552541792" id="0">
       <data key="d8">[43674635, 199624541]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">4.8413406834832085</data>
@@ -26104,7 +26104,7 @@
     </edge>
     <edge source="2096097031" target="8845774768" id="0">
       <data key="d8">[43674641, 43674634, 199624543]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">11.352018582725005</data>
@@ -26247,7 +26247,7 @@
     </edge>
     <edge source="2427278648" target="2427278650" id="0">
       <data key="d8">[234482939, 43674829]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">11.676054004457889</data>
@@ -26255,7 +26255,7 @@
     </edge>
     <edge source="2427278650" target="2427278648" id="0">
       <data key="d8">[234482939, 43674829]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">11.676054004457889</data>
@@ -26281,7 +26281,7 @@
     </edge>
     <edge source="2427278651" target="3922139859" id="0">
       <data key="d8">[43734739, 43674853, 234482942]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">20.026418024152765</data>
@@ -26306,7 +26306,7 @@
     </edge>
     <edge source="2427278658" target="551074408" id="0">
       <data key="d8">[43674889, 43613898, 43613899]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">38.75575619536666</data>
@@ -26354,7 +26354,7 @@
     </edge>
     <edge source="2427278661" target="552542515" id="0">
       <data key="d8">[247757040, 247757049, 43614031]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">35.50514983974238</data>
@@ -26805,7 +26805,7 @@
     </edge>
     <edge source="2430228393" target="551077139" id="0">
       <data key="d8">[43674682, 43615172, 43615166]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">19.63423047695248</data>
@@ -26935,7 +26935,7 @@
     </edge>
     <edge source="2430228406" target="551076908" id="0">
       <data key="d8">[43614968, 43674676, 43615102]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">48.45702239473569</data>
@@ -26965,7 +26965,7 @@
     </edge>
     <edge source="2430336619" target="552542450" id="0">
       <data key="d8">[43674890, 43674685, 43615191]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">26.6332152857307</data>
@@ -27025,7 +27025,7 @@
     </edge>
     <edge source="2436943061" target="552544219" id="0">
       <data key="d8">[235621312, 43674846]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">16.89734946628747</data>
@@ -27054,7 +27054,7 @@
     </edge>
     <edge source="2436943075" target="551077420" id="0">
       <data key="d8">[43613895, 240808968, 240808975, 233974197, 233974199]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">51.548500625153764</data>
@@ -27108,7 +27108,7 @@
     </edge>
     <edge source="2442942904" target="2442942934" id="0">
       <data key="d8">[236241712, 236241734, 236241719]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">15.056980118102487</data>
@@ -27177,7 +27177,7 @@
     </edge>
     <edge source="2442942934" target="2442942904" id="0">
       <data key="d8">[236241712, 236241734, 236241719]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">15.056980118102487</data>
@@ -27276,7 +27276,7 @@
     </edge>
     <edge source="2442942949" target="2442942950" id="0">
       <data key="d8">[236241713, 303454550]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">9.428958318800902</data>
@@ -27284,7 +27284,7 @@
     </edge>
     <edge source="2442942950" target="2442942949" id="0">
       <data key="d8">[236241713, 303454550]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">9.428958318800902</data>
@@ -27316,7 +27316,7 @@
     </edge>
     <edge source="2442942950" target="7366749799" id="0">
       <data key="d8">[240798160, 303454566, 303454551]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">30.044039828876233</data>
@@ -27436,7 +27436,7 @@
     </edge>
     <edge source="2442942959" target="2497197140" id="0">
       <data key="d8">[242205188, 43734736, 242205175, 242205181, 242205183]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">27.248565884001472</data>
@@ -27602,7 +27602,7 @@
     </edge>
     <edge source="2448593289" target="2448593292" id="0">
       <data key="d8">[236900179, 236900167]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">6.57718808005551</data>
@@ -27617,7 +27617,7 @@
     </edge>
     <edge source="2448593292" target="2448593289" id="0">
       <data key="d8">[236900179, 236900167]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">6.57718808005551</data>
@@ -27649,7 +27649,7 @@
     </edge>
     <edge source="2448593294" target="9459765856" id="0">
       <data key="d8">[43674698, 236900174]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">7.705443162041982</data>
@@ -27874,7 +27874,7 @@
     </edge>
     <edge source="2484917660" target="9659822942" id="0">
       <data key="d8">[240798129, 43674769, 240798165]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">7.240015741065924</data>
@@ -27918,7 +27918,7 @@
     </edge>
     <edge source="2485004332" target="2485004335" id="0">
       <data key="d8">[240808976, 240808963, 43674750]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">13.955076572272333</data>
@@ -27926,7 +27926,7 @@
     </edge>
     <edge source="2485004332" target="5409385183" id="0">
       <data key="d8">[240808986, 43674746, 240808966]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">28.252624277415052</data>
@@ -27941,7 +27941,7 @@
     </edge>
     <edge source="2485004335" target="2485004332" id="0">
       <data key="d8">[240808976, 240808963, 43674750]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">13.955076572272333</data>
@@ -28164,7 +28164,7 @@
     </edge>
     <edge source="2485004395" target="552542526" id="0">
       <data key="d8">[240808984, 43674883, 43613844]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">20.313200619396916</data>
@@ -28318,7 +28318,7 @@
     </edge>
     <edge source="2488916139" target="552543624" id="0">
       <data key="d8">[43674792, 241039468, 241039470, 241039471, 241193237, 241039480]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">25.295783323700288</data>
@@ -28326,7 +28326,7 @@
     </edge>
     <edge source="2488916139" target="2488916146" id="0">
       <data key="d8">[43674791, 241039472, 241039474, 241039478, 241193239, 241193242, 241039483]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">27.523334353738207</data>
@@ -28349,7 +28349,7 @@
     </edge>
     <edge source="2488916146" target="2488916139" id="0">
       <data key="d8">[43674791, 241039472, 241039474, 241039478, 241193239, 241193242, 241039483]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">27.523334353738203</data>
@@ -28380,7 +28380,7 @@
     </edge>
     <edge source="2488916148" target="8584487646" id="0">
       <data key="d8">[43934227, 43674718, 43934223]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">14.067118685776943</data>
@@ -28573,7 +28573,7 @@
     </edge>
     <edge source="2497197132" target="558703475" id="0">
       <data key="d8">[43934225, 242205179, 43674550]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">17.558432869552377</data>
@@ -28602,7 +28602,7 @@
     </edge>
     <edge source="2497197140" target="2442942959" id="0">
       <data key="d8">[242205188, 43734736, 242205175, 242205181, 242205183]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">27.24856588400147</data>
@@ -28624,7 +28624,7 @@
     </edge>
     <edge source="2497197141" target="8845774666" id="0">
       <data key="d8">[240798129, 43674763, 242205174]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">67.21456675672654</data>
@@ -28662,7 +28662,7 @@
     </edge>
     <edge source="2528461786" target="546591267" id="0">
       <data key="d8">[247757058, 245699012, 247757039]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">16.163064061815426</data>
@@ -28762,7 +28762,7 @@
     </edge>
     <edge source="2546199315" target="9837487332" id="0">
       <data key="d8">[1072133833, 247757059, 247757045]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">45.588250229141266</data>
@@ -28799,7 +28799,7 @@
     </edge>
     <edge source="2546199340" target="2546199344" id="0">
       <data key="d8">[247757050, 236241723, 247757055]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">10.754468755471914</data>
@@ -28837,7 +28837,7 @@
     </edge>
     <edge source="2546199344" target="2546199346" id="0">
       <data key="d8">[247757042, 247757055]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">3.6585216274448316</data>
@@ -28845,7 +28845,7 @@
     </edge>
     <edge source="2546199344" target="2546199340" id="0">
       <data key="d8">[247757050, 236241723, 247757055]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">10.754468755471915</data>
@@ -28853,7 +28853,7 @@
     </edge>
     <edge source="2546199346" target="2546199344" id="0">
       <data key="d8">[247757042, 247757055]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">3.6585216274448316</data>
@@ -29194,7 +29194,7 @@
     </edge>
     <edge source="3158726343" target="3922139859" id="0">
       <data key="d8">[389048339, 389048340, 389048341, 389048342]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">77.58036770267597</data>
@@ -29216,7 +29216,7 @@
     </edge>
     <edge source="3158726345" target="553496105" id="0">
       <data key="d8">[43734721, 43674692, 43734719]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">25.227459071065</data>
@@ -29412,7 +29412,7 @@
     </edge>
     <edge source="3563594007" target="560602171" id="0">
       <data key="d8">[43674713, 44116563, 44116565]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">15.256579889256747</data>
@@ -29420,7 +29420,7 @@
     </edge>
     <edge source="3563594007" target="560602173" id="0">
       <data key="d8">[43674714, 44116563, 44116566]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">15.224676738968494</data>
@@ -29428,7 +29428,7 @@
     </edge>
     <edge source="3563594007" target="5669030808" id="0">
       <data key="d8">[44116562, 43674715, 44116564]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">8.344769637333641</data>
@@ -29500,7 +29500,7 @@
     </edge>
     <edge source="3694398369" target="4513174990" id="0">
       <data key="d8">[365406938, 365406946, 43674742]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">28.484467648569442</data>
@@ -29952,7 +29952,7 @@
     </edge>
     <edge source="3769709798" target="560602430" id="0">
       <data key="d8">[43674703, 43674704, 44116594, 44116595, 44116596]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">33.8828716962667</data>
@@ -30008,7 +30008,7 @@
     </edge>
     <edge source="3922139859" target="2427278651" id="0">
       <data key="d8">[43734739, 43674853, 234482942]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">20.026418024152765</data>
@@ -30016,7 +30016,7 @@
     </edge>
     <edge source="3922139859" target="3158726343" id="0">
       <data key="d8">[389048339, 389048340, 389048341, 389048342]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">77.58036770267599</data>
@@ -30245,7 +30245,7 @@
     </edge>
     <edge source="4448469192" target="5330402993" id="0">
       <data key="d8">[177014162, 43674581]</data>
-      <data key="d9">['path', 'steps']</data>
+      <data key="d9">['steps', 'path']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">22.83108180364453</data>
@@ -30636,7 +30636,7 @@
     </edge>
     <edge source="4513170977" target="4513170982" id="0">
       <data key="d8">[454808649, 454808651, 454808653]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">10.325254410904979</data>
@@ -30652,7 +30652,7 @@
     </edge>
     <edge source="4513170977" target="4513170984" id="0">
       <data key="d8">[454808650, 454808652, 454808654]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">9.92681852177124</data>
@@ -30667,7 +30667,7 @@
     </edge>
     <edge source="4513170982" target="4513170977" id="0">
       <data key="d8">[454808649, 454808651, 454808653]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">10.325254410904979</data>
@@ -30690,7 +30690,7 @@
     </edge>
     <edge source="4513170984" target="4513170977" id="0">
       <data key="d8">[454808650, 454808652, 454808654]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">9.92681852177124</data>
@@ -30706,7 +30706,7 @@
     </edge>
     <edge source="4513174990" target="3694398369" id="0">
       <data key="d8">[365406938, 365406946, 43674742]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">28.48446764856945</data>
@@ -30714,7 +30714,7 @@
     </edge>
     <edge source="4513174990" target="9459765793" id="0">
       <data key="d8">[43674745, 365406946, 245699015]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">14.324106475219134</data>
@@ -30879,7 +30879,7 @@
     </edge>
     <edge source="5170423852" target="538714652" id="0">
       <data key="d8">[532853024, 532853025, 532853023]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">27.15170376989844</data>
@@ -31450,7 +31450,7 @@
     </edge>
     <edge source="5409191828" target="551076896" id="0">
       <data key="d8">[43614945, 43674674, 331168085]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d20">2</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
@@ -32702,7 +32702,7 @@
     </edge>
     <edge source="5409334617" target="8845774740" id="0">
       <data key="d8">[955769505, 955769506, 955769507]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">6.295072096761977</data>
@@ -32850,7 +32850,7 @@
     </edge>
     <edge source="5409334777" target="552543032" id="0">
       <data key="d8">[1051129827, 43674741]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">19.552073146418177</data>
@@ -33108,7 +33108,7 @@
     </edge>
     <edge source="5409351627" target="9659374422" id="0">
       <data key="d8">[199624545, 199624542, 43674631]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">16.144566948483067</data>
@@ -33226,7 +33226,7 @@
     </edge>
     <edge source="5409351647" target="8584532449" id="0">
       <data key="d8">[1222341776, 924973457]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">23.063575250392287</data>
@@ -33488,7 +33488,7 @@
     </edge>
     <edge source="5409385183" target="2485004332" id="0">
       <data key="d8">[43674746, 240808986, 240808966]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">28.252624277415052</data>
@@ -34141,7 +34141,7 @@
     </edge>
     <edge source="5409443564" target="11876723805" id="0">
       <data key="d8">[560951145, 1279366458, 1279366457]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">19.976725850290997</data>
@@ -34533,7 +34533,7 @@
     <edge source="5423927731" target="11186005505" id="0">
       <data key="d8">[42738222, 23113039]</data>
       <data key="d9">residential</data>
-      <data key="d14">['9th Street Northwest', 'Curran Street Northwest']</data>
+      <data key="d14">['Curran Street Northwest', '9th Street Northwest']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">100.0729875075467</data>
@@ -34662,7 +34662,7 @@
     </edge>
     <edge source="5545576261" target="5545576270" id="0">
       <data key="d8">[369133034, 578928460, 88636670]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">31.706402704102867</data>
@@ -34725,7 +34725,7 @@
     </edge>
     <edge source="5545576270" target="5545576261" id="0">
       <data key="d8">[369133034, 578928460, 88636670]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">31.706402704102864</data>
@@ -34951,7 +34951,7 @@
     </edge>
     <edge source="5669030808" target="3563594007" id="0">
       <data key="d8">[44116562, 43674715, 44116564]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">8.344769637333641</data>
@@ -35040,7 +35040,7 @@
     </edge>
     <edge source="5674104305" target="550914849" id="0">
       <data key="d8">[1453230976, 1453230975, 192503311]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">21.115149781799833</data>
@@ -35048,7 +35048,7 @@
     </edge>
     <edge source="5674104305" target="550914609" id="0">
       <data key="d8">[1453230973, 1453230974, 437869655]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">49.94210024332784</data>
@@ -36799,7 +36799,7 @@
     </edge>
     <edge source="6017757512" target="558583164" id="0">
       <data key="d8">[43674545, 234582070, 1387780167]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">37.7082923019053</data>
@@ -36919,7 +36919,7 @@
     </edge>
     <edge source="6017757522" target="69168282" id="0">
       <data key="d8">[233974185, 43391727]</data>
-      <data key="d9">['service', 'tertiary']</data>
+      <data key="d9">['tertiary', 'service']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">34.51981248783246</data>
@@ -37006,7 +37006,7 @@
     </edge>
     <edge source="6511407627" target="552540794" id="0">
       <data key="d8">[43674580, 693549007]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">5.2061023202294</data>
@@ -37184,7 +37184,7 @@
     </edge>
     <edge source="7138804376" target="552540854" id="0">
       <data key="d8">[193871305, 43674582]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">6.021564964472462</data>
@@ -37207,7 +37207,7 @@
     </edge>
     <edge source="7366749792" target="552543246" id="0">
       <data key="d8">[43674764, 787952222]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">4.492301378430856</data>
@@ -37237,7 +37237,7 @@
     </edge>
     <edge source="7366749799" target="2442942950" id="0">
       <data key="d8">[240798160, 303454566, 303454551]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">30.04403982887623</data>
@@ -37245,7 +37245,7 @@
     </edge>
     <edge source="7366749799" target="7366749813" id="0">
       <data key="d8">[240798160, 236241714, 236241717]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">7.1848365964313325</data>
@@ -37276,7 +37276,7 @@
     </edge>
     <edge source="7366749801" target="552543264" id="0">
       <data key="d8">[787952224, 787952225, 787952223]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">14.29759940644477</data>
@@ -37298,7 +37298,7 @@
     </edge>
     <edge source="7366749806" target="552543264" id="0">
       <data key="d8">[787952224, 787952226, 787952227]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">7.85206400386315</data>
@@ -37342,7 +37342,7 @@
     </edge>
     <edge source="7366749813" target="7366749799" id="0">
       <data key="d8">[240798160, 236241714, 236241717]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">7.1848365964313325</data>
@@ -37388,7 +37388,7 @@
     </edge>
     <edge source="7576564251" target="558536468" id="0">
       <data key="d8">[43674621, 43916254, 43916255]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">37.57671458223344</data>
@@ -37496,7 +37496,7 @@
     </edge>
     <edge source="8550248549" target="559371582" id="0">
       <data key="d8">[43674721, 43990388, 43990389]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">20.585763162578317</data>
@@ -37590,7 +37590,7 @@
     </edge>
     <edge source="8584487632" target="8584487636" id="0">
       <data key="d8">[924968744, 924968745]</data>
-      <data key="d9">['path', 'steps']</data>
+      <data key="d9">['steps', 'path']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">18.474371257083128</data>
@@ -37675,7 +37675,7 @@
     </edge>
     <edge source="8584487646" target="2488916148" id="0">
       <data key="d8">[43934227, 43674718, 43934223]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">14.067118685776943</data>
@@ -37923,7 +37923,7 @@
     </edge>
     <edge source="8584487702" target="2035243803" id="0">
       <data key="d8">[43674825, 310449482, 192993365]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">6.1194395543266635</data>
@@ -37953,7 +37953,7 @@
     </edge>
     <edge source="8584487703" target="2035243803" id="0">
       <data key="d8">[192993866, 192993862]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">7.061673617348369</data>
@@ -37976,7 +37976,7 @@
     </edge>
     <edge source="8584487705" target="2035243803" id="0">
       <data key="d8">[192993365, 43674828, 192993861]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">39.27763941889173</data>
@@ -38701,7 +38701,7 @@
       <data key="d8">[179236701, 43400629]</data>
       <data key="d9">service</data>
       <data key="d10">False</data>
-      <data key="d18">['driveway', 'parking_aisle']</data>
+      <data key="d18">['parking_aisle', 'driveway']</data>
       <data key="d11">[False, True]</data>
       <data key="d12">17.810945200259965</data>
       <data key="d15">LINESTRING (-84.4025949 33.7761158, -84.4024969 33.7761125, -84.4024023 33.7761142)</data>
@@ -39049,7 +39049,7 @@
     </edge>
     <edge source="8584532449" target="5409351647" id="0">
       <data key="d8">[1222341776, 924973457]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">23.063575250392287</data>
@@ -39541,7 +39541,7 @@
     </edge>
     <edge source="8845774626" target="9659822941" id="0">
       <data key="d8">[454808648, 955769464, 955769463]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">21.796553952604842</data>
@@ -39564,7 +39564,7 @@
     </edge>
     <edge source="8845774627" target="8845774629" id="0">
       <data key="d8">[955769466, 955769467, 454808647]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">30.878147018755357</data>
@@ -39594,7 +39594,7 @@
     </edge>
     <edge source="8845774629" target="8845774627" id="0">
       <data key="d8">[955769466, 955769467, 454808647]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">30.878147018755353</data>
@@ -39625,7 +39625,7 @@
     </edge>
     <edge source="8845774644" target="8845774656" id="0">
       <data key="d8">[955769472, 955769473, 955769469, 955769470, 955769471]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">20.30390303476948</data>
@@ -39781,7 +39781,7 @@
     </edge>
     <edge source="8845774656" target="8845774644" id="0">
       <data key="d8">[955769472, 955769473, 955769469, 955769470, 955769471]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">20.303903034769483</data>
@@ -39917,7 +39917,7 @@
     </edge>
     <edge source="8845774663" target="8845774666" id="0">
       <data key="d8">[955769480, 955769481, 955769482]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">7.108849942989121</data>
@@ -39932,7 +39932,7 @@
     </edge>
     <edge source="8845774666" target="2497197141" id="0">
       <data key="d8">[240798129, 43674763, 242205174]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">67.21456675672654</data>
@@ -39940,7 +39940,7 @@
     </edge>
     <edge source="8845774666" target="8845774663" id="0">
       <data key="d8">[955769480, 955769481, 955769482]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">7.108849942989121</data>
@@ -40112,7 +40112,7 @@
     </edge>
     <edge source="8845774679" target="552543010" id="0">
       <data key="d8">[955769489, 43674738, 43674739, 955769490]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">13.190794535279228</data>
@@ -40363,7 +40363,7 @@
     </edge>
     <edge source="8845774720" target="8845774723" id="0">
       <data key="d8">[955769499, 955769500, 955769501]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">13.93337818759382</data>
@@ -40371,7 +40371,7 @@
     </edge>
     <edge source="8845774723" target="8845774720" id="0">
       <data key="d8">[955769499, 955769500, 955769501]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">13.933378187593823</data>
@@ -40473,7 +40473,7 @@
     </edge>
     <edge source="8845774740" target="5409334617" id="0">
       <data key="d8">[955769505, 955769506, 955769507]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">6.295072096761977</data>
@@ -40583,7 +40583,7 @@
     </edge>
     <edge source="8845774750" target="8845774752" id="0">
       <data key="d8">[955769512, 955769513, 955769511]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">9.928240610539696</data>
@@ -40591,7 +40591,7 @@
     </edge>
     <edge source="8845774752" target="8845774750" id="0">
       <data key="d8">[955769512, 955769513, 955769511]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">9.928240610539696</data>
@@ -40607,7 +40607,7 @@
     </edge>
     <edge source="8845774754" target="8845774760" id="1">
       <data key="d8">[955769514, 955769515, 955769516, 955769517, 955769518]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">20.26274049027484</data>
@@ -40639,7 +40639,7 @@
     </edge>
     <edge source="8845774760" target="8845774754" id="1">
       <data key="d8">[955769514, 955769515, 955769516, 955769517, 955769518]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">20.262740490274844</data>
@@ -40708,7 +40708,7 @@
     </edge>
     <edge source="8845774768" target="2096097031" id="0">
       <data key="d8">[43674641, 43674634, 199624543]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">11.352018582725005</data>
@@ -40886,7 +40886,7 @@
     </edge>
     <edge source="9048439664" target="551072940" id="0">
       <data key="d8">[43613841, 43674882, 192142345]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">22.602606520749028</data>
@@ -40960,7 +40960,7 @@
     </edge>
     <edge source="9048503791" target="998987481" id="0">
       <data key="d8">[28688320, 235621314, 235621315, 245699013, 977893288, 234484168, 1453230966]</data>
-      <data key="d9">['footway', 'steps', 'pedestrian']</data>
+      <data key="d9">['steps', 'footway', 'pedestrian']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">65.48552325542431</data>
@@ -41122,7 +41122,7 @@
     </edge>
     <edge source="9459765793" target="4513174990" id="0">
       <data key="d8">[43674745, 365406946, 245699015]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">14.324106475219136</data>
@@ -41236,7 +41236,7 @@
     </edge>
     <edge source="9459765854" target="523383711" id="0">
       <data key="d8">[43674881, 1026024034, 1026024035]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">18.463525922781677</data>
@@ -41298,7 +41298,7 @@
     </edge>
     <edge source="9459765856" target="2448593294" id="0">
       <data key="d8">[43674698, 236900174]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">7.705443162041982</data>
@@ -41389,7 +41389,7 @@
     </edge>
     <edge source="9563704479" target="553496113" id="0">
       <data key="d8">[233974187, 1453230957, 233974190, 233974193, 233974196]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d14">Skiles Walkway</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
@@ -41564,7 +41564,7 @@
     </edge>
     <edge source="9659372405" target="552542991" id="0">
       <data key="d8">[43674737, 1051129828, 1051129829]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">47.519084386051574</data>
@@ -41656,7 +41656,7 @@
     </edge>
     <edge source="9659374318" target="9659374324" id="0">
       <data key="d8">[43674607, 43674608, 43674609, 1051129839, 44075289, 44075290, 44075291]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">29.917419826155626</data>
@@ -41672,7 +41672,7 @@
     </edge>
     <edge source="9659374324" target="9659374318" id="0">
       <data key="d8">[1051129839, 43674608, 43674609, 43674607, 44075289, 44075290, 44075291]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">29.91741982615563</data>
@@ -41847,7 +41847,7 @@
     </edge>
     <edge source="9659374382" target="552540343" id="0">
       <data key="d8">[1051129850, 43674539]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">15.122334119058323</data>
@@ -41894,7 +41894,7 @@
     </edge>
     <edge source="9659374397" target="9659374425" id="0">
       <data key="d8">[43674632, 1051129851]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">12.802676160123838</data>
@@ -41932,7 +41932,7 @@
     </edge>
     <edge source="9659374401" target="534324018" id="0">
       <data key="d8">[199624544, 43674634]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">4.75592598076064</data>
@@ -41963,7 +41963,7 @@
     </edge>
     <edge source="9659374414" target="9659374416" id="0">
       <data key="d8">[1051129856, 1051129857, 1051129858, 1051129853, 1051129854]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">22.040594036703677</data>
@@ -41986,7 +41986,7 @@
     </edge>
     <edge source="9659374416" target="9659374414" id="0">
       <data key="d8">[1051129856, 1051129857, 1051129858, 1051129853, 1051129854]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">22.04059403670368</data>
@@ -42025,7 +42025,7 @@
     </edge>
     <edge source="9659374422" target="5409351627" id="0">
       <data key="d8">[199624545, 199624542, 43674631]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">16.144566948483067</data>
@@ -42041,7 +42041,7 @@
     </edge>
     <edge source="9659374425" target="9659374397" id="0">
       <data key="d8">[43674632, 1051129851]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">12.80267616012384</data>
@@ -42056,7 +42056,7 @@
     </edge>
     <edge source="9659374428" target="552541806" id="0">
       <data key="d8">[43674640, 1051129861, 1051129862]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">48.22308175620841</data>
@@ -42111,7 +42111,7 @@
     </edge>
     <edge source="9659374439" target="552541767" id="0">
       <data key="d8">[1051129864, 43674633]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">11.214643875311129</data>
@@ -42170,7 +42170,7 @@
     </edge>
     <edge source="9659374442" target="9659374443" id="0">
       <data key="d8">[1051129864, 1051129867]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">9.678516394175835</data>
@@ -42202,7 +42202,7 @@
     </edge>
     <edge source="9659374443" target="9659374442" id="0">
       <data key="d8">[1051129864, 1051129867]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">9.678516394175835</data>
@@ -42210,7 +42210,7 @@
     </edge>
     <edge source="9659374445" target="9659374447" id="0">
       <data key="d8">[1051129871, 1051129869, 43674647]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">39.09880393244761</data>
@@ -42226,7 +42226,7 @@
     </edge>
     <edge source="9659374445" target="552541910" id="0">
       <data key="d8">[1051129870, 43674646]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">9.768481846943896</data>
@@ -42262,7 +42262,7 @@
     </edge>
     <edge source="9659374447" target="9659374445" id="0">
       <data key="d8">[43674647, 1051129869, 1051129871]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">39.09880393244761</data>
@@ -42270,7 +42270,7 @@
     </edge>
     <edge source="9659374447" target="552541931" id="0">
       <data key="d8">[1051129872, 43674648]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">17.392054252387666</data>
@@ -42292,7 +42292,7 @@
     </edge>
     <edge source="9659374448" target="552541726" id="0">
       <data key="d8">[1051129873, 43674630]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">13.389923557385101</data>
@@ -42315,7 +42315,7 @@
     </edge>
     <edge source="9659374450" target="9659374460" id="1">
       <data key="d8">[1051129874, 43674627, 1051129877]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">36.191862174445426</data>
@@ -42346,7 +42346,7 @@
     </edge>
     <edge source="9659374460" target="9659374450" id="0">
       <data key="d8">[1051129874, 43674627, 1051129877]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">36.191862174445426</data>
@@ -42369,7 +42369,7 @@
     </edge>
     <edge source="9659822941" target="8845774626" id="0">
       <data key="d8">[955769464, 454808648, 955769463]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">21.79655395260484</data>
@@ -42377,7 +42377,7 @@
     </edge>
     <edge source="9659822941" target="552543224" id="0">
       <data key="d8">[43674761, 1051183453]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">11.685218803114719</data>
@@ -42393,7 +42393,7 @@
     </edge>
     <edge source="9659822942" target="2484917660" id="0">
       <data key="d8">[43674769, 240798129, 240798165]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">7.240015741065924</data>
@@ -42401,7 +42401,7 @@
     </edge>
     <edge source="9659822942" target="552543327" id="0">
       <data key="d8">[43674770, 1051183454]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">9.796867906080166</data>
@@ -42426,7 +42426,7 @@
     </edge>
     <edge source="9659822945" target="552542599" id="0">
       <data key="d8">[43674696, 1051183455]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">9.37304956489709</data>
@@ -42434,7 +42434,7 @@
     </edge>
     <edge source="9659822946" target="9659822948" id="0">
       <data key="d8">[1051183456, 43674877]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">8.775705218410273</data>
@@ -42461,7 +42461,7 @@
     </edge>
     <edge source="9659822948" target="9659822946" id="0">
       <data key="d8">[1051183456, 43674877]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">8.775705218410273</data>
@@ -42483,7 +42483,7 @@
     </edge>
     <edge source="9659822949" target="552542678" id="0">
       <data key="d8">[43674705, 1051183457]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">14.320807139277292</data>
@@ -42595,7 +42595,7 @@
     </edge>
     <edge source="9837487332" target="2546199315" id="0">
       <data key="d8">[1072133833, 247757059, 247757045]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">45.58825022914128</data>
@@ -42603,7 +42603,7 @@
     </edge>
     <edge source="9837487332" target="9837487335" id="0">
       <data key="d8">[1072133832, 1072133833, 247757053]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">38.11693510645671</data>
@@ -42611,7 +42611,7 @@
     </edge>
     <edge source="9837487335" target="9837487332" id="0">
       <data key="d8">[1072133832, 1072133833, 247757053]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">[False, True]</data>
       <data key="d12">38.11693510645671</data>
@@ -43182,7 +43182,7 @@
     <edge source="11186005505" target="5423927731" id="0">
       <data key="d8">[42738222, 23113039]</data>
       <data key="d9">residential</data>
-      <data key="d14">['9th Street Northwest', 'Curran Street Northwest']</data>
+      <data key="d14">['Curran Street Northwest', '9th Street Northwest']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">100.0729875075467</data>
@@ -43418,7 +43418,7 @@
     </edge>
     <edge source="11263204728" target="11263209954" id="0">
       <data key="d8">[1453188192, 1453188193, 1453188194, 1453188195, 1453188196, 1453188197, 1453188198, 1453188199, 1453188200, 1453188201, 1453188202, 1453215663, 967611070]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">52.70269577256567</data>
@@ -43491,7 +43491,7 @@
     </edge>
     <edge source="11263209954" target="11263204728" id="0">
       <data key="d8">[1453188192, 1453188193, 1453188194, 1453188195, 1453188196, 1453188197, 1453188198, 1453188199, 1453188200, 1453188201, 1453188202, 1453215663, 967611070]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">52.70269577256567</data>
@@ -43574,7 +43574,7 @@
       <data key="d8">[560681728, 43391738]</data>
       <data key="d9">service</data>
       <data key="d10">False</data>
-      <data key="d18">['driveway', 'parking_aisle']</data>
+      <data key="d18">['parking_aisle', 'driveway']</data>
       <data key="d11">False</data>
       <data key="d12">25.275839641519745</data>
       <data key="d15">LINESTRING (-84.4029839 33.773435, -84.4028553 33.7733798, -84.4028487 33.773366, -84.4028816 33.773278)</data>
@@ -43777,7 +43777,7 @@
     </edge>
     <edge source="11336901595" target="11698599948" id="0">
       <data key="d8">[1222367306, 1222367307]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">20.972173181044607</data>
@@ -43903,7 +43903,7 @@
     </edge>
     <edge source="11698599948" target="11336901595" id="0">
       <data key="d8">[1222367306, 1222367307]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">20.972173181044607</data>
@@ -43985,7 +43985,7 @@
     </edge>
     <edge source="11698599954" target="546617081" id="0">
       <data key="d8">[1258392323, 1258392324, 1258392325]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">70.18681827443375</data>
@@ -44212,7 +44212,7 @@
     </edge>
     <edge source="11698670983" target="551076919" id="0">
       <data key="d8">[43674680, 1258398260, 43614989]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">34.637611079776114</data>
@@ -44853,7 +44853,7 @@
     </edge>
     <edge source="11698702929" target="559838189" id="0">
       <data key="d8">[1258402080, 1258402079]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">66.76431044665874</data>
@@ -44982,7 +44982,7 @@
     </edge>
     <edge source="11876723805" target="5409443564" id="0">
       <data key="d8">[1279366457, 1279366458, 560951145]</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
       <data key="d12">19.976725850290993</data>
@@ -45456,7 +45456,7 @@
     <edge source="12981995934" target="1890103412" id="0">
       <data key="d8">[178659304, 551997445, 178659309]</data>
       <data key="d17">['permissive', 'yes']</data>
-      <data key="d9">['footway', 'steps']</data>
+      <data key="d9">['steps', 'footway']</data>
       <data key="d10">False</data>
       <data key="d11">False</data>
       <data key="d12">156.1704584262033</data>
@@ -45464,7 +45464,7 @@
     </edge>
     <edge source="12981995934" target="1890103407" id="0">
       <data key="d8">[178659306, 178659309]</data>
-      <data key="d17">['no', 'yes']</data>
+      <data key="d17">['yes', 'no']</data>
       <data key="d9">footway</data>
       <data key="d10">False</data>
       <data key="d11">True</data>
@@ -45914,7 +45914,7 @@
       <data key="d12">279.563589395352</data>
       <data key="d15">LINESTRING (-84.3920774 33.7739066, -84.3920667 33.7731295, -84.3920754 33.7718064, -84.3920894 33.7717741, -84.3920938 33.7716063, -84.3921203 33.7715234, -84.3921786 33.7714362, -84.3921971 33.771415)</data>
     </edge>
-    <data key="d0">2026-10-10 12:56:55</data>
+    <data key="d0">2026-10-10 13:16:42</data>
     <data key="d1">OSMnx 2.1.1</data>
     <data key="d2">epsg:4326</data>
     <data key="d3">True</data>
